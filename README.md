@@ -237,4 +237,4 @@ This repository serves as the official landing page for WeChat. The software is 
 **Get the most recent version of WeChat today!**
 
 ---
-**Last updated:** 2026-09-28 22:18:59 UTC
+**Last updated:** 2026-09-29 02:22:09 UTC
